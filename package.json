@@ -1,0 +1,26 @@
+{
+  "name": "frequency-word",
+  "version": "1.0.0",
+  "description": "frequnency 4,000 words in English",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keithand/frequency-word.git"
+  },
+  "keywords": [
+    "frequency",
+    "words"
+  ],
+  "author": "Keith Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keithand/frequency-word/issues"
+  },
+  "homepage": "https://github.com/keithand/frequency-word",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
